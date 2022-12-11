@@ -7,6 +7,8 @@ Hence sharing with you all
 
 I will tell the most important and commonly asked questions First so that you can prepare accordingly
 
+![interview](/Images/android_interview.webp)
+
 — — — — — — — — — Activity/Fragment Part — — — — — — —
 
 * Explain Activity Life Cycle and Most Importantly What will be the Life cycle (In Order) If Activity B is Launched from Activity A.
